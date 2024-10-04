@@ -1,0 +1,41 @@
+body {
+    background-color: tomato;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+input {
+    margin: 10px 0;
+    padding: 5px;
+    border-radius: 20px;
+    border: none;
+    border: 1px solid aqua;
+    background-color: aqua;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: rgba(51, 51, 197, 0.425);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    opacity: 0.4;
+    transition: 0.5s;
+    background-color: greenyellow;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 18px;
+
+}
+
